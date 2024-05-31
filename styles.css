@@ -1,1 +1,28 @@
+
 /*  your css code here. If applicable */
+.card{
+	padding: 40px;
+	background-color: #EBEBEB;
+}
+img{
+	width: 500px;
+	align-content: center;
+}
+.info{
+	text-align: center;
+	font-size: 30px;
+	font-weight:600;
+}
+.btn{
+	padding: 20px;
+	color: white;
+	background-color:#FF684F;
+	border: none;
+	border-radius: 20px;
+	font-size: 30px;
+	margin: 0 30%;
+}
+.title{
+	font-size: 50px;
+	text-align:center;
+}
